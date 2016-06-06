@@ -51,7 +51,7 @@ var Footer = exports.Footer = function (_React$Component) {
               { size: ["xs-12", "md-4"] },
               _react2.default.createElement(
                 "p",
-                { className: "neal-footer-copyright" },
+                { className: "neal-footer-copyright forkf" },
                 "© ",
                 new Date().getFullYear(),
                 ", ",

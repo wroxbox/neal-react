@@ -2,7 +2,7 @@
   "name": "neal-react",
   "version": "0.2.5",
   "description": "react components for startup landing pages.",
-  "repository": "https://github.com/dennybritz/neal-react",
+  "repository": "https://github.com/wroxbox/neal-react",
   "main": "build/app.js",
   "scripts": {
     "clean": "rimraf ./build",

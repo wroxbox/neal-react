@@ -138,7 +138,7 @@ var FooterAddress = exports.FooterAddress = function (_React$Component2) {
     value: function render() {
       return _react2.default.createElement(
         "div",
-        { className: "neal-footer-address" },
+        { className: "neal-footer-address fork" },
         this.props.children
       );
     }

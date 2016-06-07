@@ -13,6 +13,7 @@ export * from "./section";
 export * from "./signup-inline";
 export * from "./signup-modal";
 export * from "./team";
+export * from "./testimonial";
 export * from "./vendor/segment";
 export * from "./vendor/stripe";
 export * from "./vendor/typeform";

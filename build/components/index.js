@@ -184,6 +184,18 @@ Object.keys(_team).forEach(function (key) {
   });
 });
 
+var _testimonial = require("./testimonial");
+
+Object.keys(_testimonial).forEach(function (key) {
+  if (key === "default") return;
+  Object.defineProperty(exports, key, {
+    enumerable: true,
+    get: function get() {
+      return _testimonial[key];
+    }
+  });
+});
+
 var _segment = require("./vendor/segment");
 
 Object.keys(_segment).forEach(function (key) {

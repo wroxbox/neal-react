@@ -51,7 +51,7 @@ var Footer = exports.Footer = function (_React$Component) {
               { size: ["xs-12", "md-4"] },
               _react2.default.createElement(
                 "p",
-                { className: "neal-footer-copyright forkf" },
+                { className: "neal-footer-copyright" },
                 "© ",
                 new Date().getFullYear(),
                 ", ",
@@ -138,7 +138,7 @@ var FooterAddress = exports.FooterAddress = function (_React$Component2) {
     value: function render() {
       return _react2.default.createElement(
         "div",
-        { className: "neal-footer-address fork" },
+        { className: "neal-footer-address" },
         this.props.children
       );
     }

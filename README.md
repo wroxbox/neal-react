@@ -27,6 +27,7 @@ Main components:
 - [`SignupInline`](https://github.com/dennybritz/neal-react/blob/master/js/components/signup-inline.jsx)
 - [`SignupModal`](https://github.com/dennybritz/neal-react/blob/master/js/components/signup-modal.jsx)
 - [`Team`](https://github.com/dennybritz/neal-react/blob/master/js/components/team.jsx)
+- [`Testimonial`](https://github.com/dennybritz/neal-react/blob/master/js/components/testimonial.jsx)
 
 Third-Party integrations
 

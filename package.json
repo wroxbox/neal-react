@@ -1,6 +1,6 @@
 {
   "name": "wroxbox-react",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "react components for startup landing pages.",
   "repository": "https://github.com/wroxbox/neal-react",
   "main": "build/app.js",
